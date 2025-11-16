@@ -85,6 +85,5 @@ A Python-based interactive application to analyze co-occurrence patterns between
 
 ## 👩‍💻 Author
 
-Priyanka Rath
-Final Year Student
-Silicon University, Bhubaneswar
+**Priyanka Rath**  
+Final Year B.Tech Student , Silicon University
